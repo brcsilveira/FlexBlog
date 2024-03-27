@@ -42,7 +42,7 @@ O projeto apresenta uma página web responsiva com as seguintes seções:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/flexblog.git
+   git clone https://github.com/brcsilveira/flexblog.git
    ```
 
 2. Abra o arquivo `index.html` em um navegador web.
